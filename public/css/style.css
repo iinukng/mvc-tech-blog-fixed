@@ -1,0 +1,80 @@
+.navTitle {
+  font-size: 2rem;
+  font-weight: bolder;
+}
+
+.blogBox {
+  margin: 1rem;
+  border-style: solid;
+}
+
+.blogTitle {
+  text-decoration: none;
+  color: white;
+}
+
+.blogDesc {
+  border-style: solid;
+  margin-bottom: 5px;
+  padding: 2px;
+  background-color: lightgray;
+}
+
+.blogDescMain {
+  font-weight: bold;
+}
+
+.blogDescTwo {
+  font-size: 1.5rem;
+}
+
+.blogCreate {
+  font-weight: bold;
+  font-size: 1rem;
+  padding: 5px;
+  color: white;
+}
+
+.blogBoxCont {
+	margin-top: 10px;
+  border-style: solid;
+  background-color: lightgray;
+}
+
+.formCont {
+  margin: auto;
+  max-width: 75%;
+}
+
+.commentCont {
+  margin: auto;
+  max-width: 75%;
+  background-color: lightgray;
+}
+
+.btnComment {
+  margin: 10px;
+}
+
+.commentText {
+  font-weight: bold;
+  padding-top: 10px;
+  background-color: lightgray;
+}
+
+.commentCont {
+  border-style: solid;
+}
+
+.headerRow {
+  background-color: black;
+  margin-bottom: 10px;
+}
+
+a:hover {
+  color: blue;
+}
+
+.form-group{
+	margin-top: 10px;
+}
