@@ -9,7 +9,7 @@ Once logged in, the user will have access to create and delete blog posts
 
 ## Deployed Application
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/iinuk/desktop/mvc-tech-blog-fixed/assets/images/Capture.PNG?version%3D1664394461779)
+![](assets/images/Capture.PNG)
 
 Link:https://mvc-tech-blog-fixed-jk.herokuapp.com/
 
